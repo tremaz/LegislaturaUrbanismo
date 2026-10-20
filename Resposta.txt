@@ -1,0 +1,27 @@
+**Texto reescrito**  
+- O checklist verifica se a rua local em Fortaleza cumpre as leis, funciona bem, é segura, acessível e está bem integrada aos terrenos vizinhos.  
+- Primeiro, confere se a classificação da via como “local” está justificada, se há projetos oficiais de alargamento ou mudança de traçado, se a largura construída corresponde ao espaço disponível e se o parcelamento do solo está regularizado.  
+- Também verifica se existem estudos de urbanização quando a rua é mais estreita que os padrões recomendados, lembrando que uma rua antiga fora de padrão não é automaticamente irregular.  
+- Na parte da calçada, analisa se há espaço suficiente para pedestres, se o caminho é contínuo, se o piso está nivelado, se a inclinação lateral está correta, se a inclinação longitudinal acompanha o terreno e se há altura livre suficiente para a passagem.  
+- Checa ainda se a calçada está livre de manobras, estacionamento ou paradas de veículos que prejudiquem seu uso.  
+- Na seção de acessibilidade, avalia se há rotas contínuas para pessoas com deficiência, se os rebaixamentos de meio‑fio são adequados, se as rampas seguem as normas técnicas, e se não há obstáculos como postes, placas ou árvores que dificultem a mobilidade.  
+- Verifica a presença de pisos táteis de orientação e alerta, a altura livre sob elementos suspensos e a disposição de mobiliário urbano sem obstruir a passagem.  
+- Na arborização, certifica que árvores, vasos e outros equipamentos não invadem a faixa livre da calçada, que o espaço entre elas respeita a largura mínima da via e que a drenagem do solo não é comprometida por raízes ou bordas.  
+- Na parte de acessos de veículos e rebaixamento do meio‑fio, verifica se as entradas e saídas de carros não transformam a calçada em uma série de rampas que interrompam a caminhada, observando afastamentos de esquinas, largura mínima das aberturas e sinalização de alerta.  
+- Na seção de vagas e estacionamento, confirma a reserva de vagas para pessoas com deficiência ou idosas, se a sinalização está correta e se vagas ou paradas não ocupam a calçada ou bloqueiam a faixa livre.  
+- Na análise dos recuos e interface com os imóveis vizinhos, verifica se degraus, rampas e portões ficam dentro dos limites dos lotes, se os recuos frontais atendem ao zoneamento e se não há construções que invadam a calçada.  
+- Na inspeção de pavimento, drenagem, iluminação e segurança, avalia se o piso da rua e da calçada está em bom estado, sem buracos ou desníveis, se a água escoa adequadamente, se a iluminação pública é suficiente e se há condições de segurança viária que priorizem pedestres.  
+- Por fim, o resultado da auditoria classifica cada item como conforme, insuficiente, não conforme ou que precisa de análise complementar, permitindo identificar os principais problemas e definir prioridades de intervenção.  
+- A conclusão indica que a via está “adequada com insuficiências”: a situação legal e a relação com os lotes estão em ordem, mas há deficiências importantes na calçada, na acessibilidade e no estacionamento, além de questões de arborização, acessos de veículos e segurança que precisam ser corrigidas.  
+
+**Explicações**  
+- **Legislação urbanística municipal**: são as normas da Prefeitura de Fortaleza que regulam o uso e ocupação do solo, o recuo frontal, a largura mínima das vias e a classificação das ruas.  
+- **Normas federais de acessibilidade**: principalmente a ABNT NBR 9050 2020, que estabelece requisitos de largura de calçadas, inclinação de rampas (máximo de 8,33 % ou 1 : 12), pisos táteis e altura livre mínima (2,10 m).  
+- **Diretrizes de mobilidade urbana**: orientações do Ministério das Cidades e do Conselho Nacional de Transporte que incentivam a prioridade ao pedestre, a integração entre modos de transporte e a segurança nos deslocamentos.  
+- **Reserva de vagas para deficientes**: conforme o Código de Trânsito Brasileiro (CTB) art. 181, as vagas devem ter largura mínima de 3,00 m e estar sinalizadas; o número de vagas depende da demanda do local.  
+
+**Fontes consultadas**  
+- Prefeitura de Fortaleza – Secretaria de Planejamento e Urbanismo – https://www.fortaleza.ce.gov.br/urbanismo  
+- ABNT – NBR 9050 2020 – Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos – https://www.abnt.org.br/nbr-9050  
+- Código de Trânsito Brasileiro (Lei 9.503/1997) – Art. 181 – https://www.planalto.gov.br/ccivil_03/leis/l9503.htm  
+- Ministério das Cidades – Diretrizes de Mobilidade Urbana – https://www.gov.br/pt-br/servicos/diretrizes-de-mobilidade-urbana  
