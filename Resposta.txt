@@ -1,27 +1,84 @@
-**Texto reescrito**  
-- O checklist verifica se a rua local em Fortaleza cumpre as leis, funciona bem, é segura, acessível e está bem integrada aos terrenos vizinhos.  
-- Primeiro, confere se a classificação da via como “local” está justificada, se há projetos oficiais de alargamento ou mudança de traçado, se a largura construída corresponde ao espaço disponível e se o parcelamento do solo está regularizado.  
-- Também verifica se existem estudos de urbanização quando a rua é mais estreita que os padrões recomendados, lembrando que uma rua antiga fora de padrão não é automaticamente irregular.  
-- Na parte da calçada, analisa se há espaço suficiente para pedestres, se o caminho é contínuo, se o piso está nivelado, se a inclinação lateral está correta, se a inclinação longitudinal acompanha o terreno e se há altura livre suficiente para a passagem.  
-- Checa ainda se a calçada está livre de manobras, estacionamento ou paradas de veículos que prejudiquem seu uso.  
-- Na seção de acessibilidade, avalia se há rotas contínuas para pessoas com deficiência, se os rebaixamentos de meio‑fio são adequados, se as rampas seguem as normas técnicas, e se não há obstáculos como postes, placas ou árvores que dificultem a mobilidade.  
-- Verifica a presença de pisos táteis de orientação e alerta, a altura livre sob elementos suspensos e a disposição de mobiliário urbano sem obstruir a passagem.  
-- Na arborização, certifica que árvores, vasos e outros equipamentos não invadem a faixa livre da calçada, que o espaço entre elas respeita a largura mínima da via e que a drenagem do solo não é comprometida por raízes ou bordas.  
-- Na parte de acessos de veículos e rebaixamento do meio‑fio, verifica se as entradas e saídas de carros não transformam a calçada em uma série de rampas que interrompam a caminhada, observando afastamentos de esquinas, largura mínima das aberturas e sinalização de alerta.  
-- Na seção de vagas e estacionamento, confirma a reserva de vagas para pessoas com deficiência ou idosas, se a sinalização está correta e se vagas ou paradas não ocupam a calçada ou bloqueiam a faixa livre.  
-- Na análise dos recuos e interface com os imóveis vizinhos, verifica se degraus, rampas e portões ficam dentro dos limites dos lotes, se os recuos frontais atendem ao zoneamento e se não há construções que invadam a calçada.  
-- Na inspeção de pavimento, drenagem, iluminação e segurança, avalia se o piso da rua e da calçada está em bom estado, sem buracos ou desníveis, se a água escoa adequadamente, se a iluminação pública é suficiente e se há condições de segurança viária que priorizem pedestres.  
-- Por fim, o resultado da auditoria classifica cada item como conforme, insuficiente, não conforme ou que precisa de análise complementar, permitindo identificar os principais problemas e definir prioridades de intervenção.  
-- A conclusão indica que a via está “adequada com insuficiências”: a situação legal e a relação com os lotes estão em ordem, mas há deficiências importantes na calçada, na acessibilidade e no estacionamento, além de questões de arborização, acessos de veículos e segurança que precisam ser corrigidas.  
+**Resumo:**  
+Via local apresenta várias ausências de informação; não é possível afirmar conformidade. Principais problemas: falta de dados sobre largura da via, calçada, acessibilidade, estacionamento e recuos.
 
-**Explicações**  
-- **Legislação urbanística municipal**: são as normas da Prefeitura de Fortaleza que regulam o uso e ocupação do solo, o recuo frontal, a largura mínima das vias e a classificação das ruas.  
-- **Normas federais de acessibilidade**: principalmente a ABNT NBR 9050 2020, que estabelece requisitos de largura de calçadas, inclinação de rampas (máximo de 8,33 % ou 1 : 12), pisos táteis e altura livre mínima (2,10 m).  
-- **Diretrizes de mobilidade urbana**: orientações do Ministério das Cidades e do Conselho Nacional de Transporte que incentivam a prioridade ao pedestre, a integração entre modos de transporte e a segurança nos deslocamentos.  
-- **Reserva de vagas para deficientes**: conforme o Código de Trânsito Brasileiro (CTB) art. 181, as vagas devem ter largura mínima de 3,00 m e estar sinalizadas; o número de vagas depende da demanda do local.  
+---
 
-**Fontes consultadas**  
-- Prefeitura de Fortaleza – Secretaria de Planejamento e Urbanismo – https://www.fortaleza.ce.gov.br/urbanismo  
-- ABNT – NBR 9050 2020 – Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos – https://www.abnt.org.br/nbr-9050  
-- Código de Trânsito Brasileiro (Lei 9.503/1997) – Art. 181 – https://www.planalto.gov.br/ccivil_03/leis/l9503.htm  
-- Ministério das Cidades – Diretrizes de Mobilidade Urbana – https://www.gov.br/pt-br/servicos/diretrizes-de-mobilidade-urbana  
+### 1️⃣ Situação legal, largura da via e alinhamento  
+🔍 **precisa de análise complementar** – não há medição da largura nem projeto de alargamento.  
+**Lei nº 10.474/2016** – define a classificação de vias locais e estabelece requisitos de largura mínima, mas permite exceções para vias preexistentes.  
+**Código da Cidade (Art. 32)** – fixa largura mínima de 6 m para via local, salvo justificativa técnica.  
+*Correção:* obter levantamento topográfico e consultar o projeto original da via.
+
+### 2️⃣ Calçada, largura, continuidade e piso  
+🔍 **precisa de análise complementar** – inexistem dados sobre largura, continuidade ou estado do pavimento.  
+**Código da Cidade (Art. 44)** – determina faixa livre mínima de 1,20 m e faixa de serviço de 0,50 m, com piso regular e sem obstáculos.  
+**ND 10391/2015** – exige regularidade do piso e inclinação transversal ≤ 5 %.  
+*Correção:* medir calçada, reparar irregularidades e retirar veículos estacionados.
+
+### 3️⃣ Acessibilidade, rampas, travessias e piso tátil  
+🔍 **precisa de análise complementar** – não há informações sobre rampas, rebaixamento de meio‑fio ou piso tátil.  
+**Lei Ordinária 9.755/2011** – garante direito de pessoas com deficiência ao acesso em vias públicas.  
+**Código da Cidade (Art. 57)** – obriga rampas com inclinação ≤ 8,33 % e piso tátil direcional/alerta.  
+*Correção:* projetar e instalar rampas e pisos táteis conforme normas.
+
+### 4️⃣ Arborização e faixa de serviço  
+🔍 **precisa de análise complementar** – falta informação sobre posição de árvores, equipamentos e largura da faixa de serviço.  
+**Lei nº 10.474/2016** – disciplina a faixa de serviço (mín. 0,5 m) e a distância mínima de árvores da calçada.  
+**ND 10391/2015** – recomenda solo permeável e proíbe raízes que danifiquem pavimento.  
+*Correção:* mapear arborização, garantir afastamento adequado e retirar obstáculos.
+
+### 5️⃣ Entradas de veículos e rebaixamento do meio‑fio  
+🔍 **precisa de análise complementar** – não há dados sobre dimensões ou sinalização das entradas.  
+**Código da Cidade (Art. 54)** – fixa largura mínima de abertura de 2,5 m e extensão lateral do rebaixamento de 1 m.  
+**Lei nº 10.361/2015** – regula sinalização de advertência nas áreas de rebaixamento.  
+*Correção:* ajustar dimensões e sinalizar adequadamente as entradas.
+
+### 6️⃣ Vagas e estacionamento na via e relação com o lote  
+🔍 **precisa de análise complementar** – inexistem informações sobre vagas para PcD, sinalização ou ocupação da calçada.  
+**Código da Cidade (Art. 108)** – exige vagas reservadas para pessoas com deficiência, sinalizadas segundo o Conselho Nacional de Trânsito.  
+**Lei nº 10.361/2015** – proíbe estacionamento que invada a faixa livre da calçada.  
+*Correção:* demarcar vagas PcD, retirar veículos que ocupam a calçada.
+
+### 7️⃣ Recuos e relação com os imóveis vizinhos  
+🔍 **precisa de análise complementar** – não há dados sobre recuos frontais, degraus ou portões.  
+**Lei nº 236/2017** – estabelece recuo frontal mínimo de 5 m para uso residencial.  
+**Plano Diretor de Fortaleza (Lei 62/2009)** – determina que acessos de lote não invadam a via pública.  
+*Correção:* verificar conformidade dos recuos e adequar portões e rampas ao interior do lote.
+
+### 8️⃣ Pavimento, drenagem, iluminação e segurança  
+🔍 **precisa de análise complementar** – não há observação de buracos, poças ou iluminação.  
+**Código da Cidade (Art. 70)** – exige pavimento em bom estado e sem desníveis perigosos.  
+**Art. 71** – determina sistema de drenagem adequado para evitar acúmulo de água.  
+**Art. 73** – fixa níveis mínimos de iluminação pública nas vias.  
+*Correção:* inspeção detalhada, reparos de pavimento e melhoria de iluminação.
+
+### 9️⃣ Resultado da auditoria  
+⚠️ **inadequada** – a maioria das seções carece de informações essenciais; sem dados não é possível confirmar conformidade.
+
+---
+
+## Conclusão geral e ações prioritárias  
+
+1. **Levantamento topográfico e documental** da via (largura, alinhamento, projetos).  
+2. **Adequação da calçada** – garantir largura mínima, continuidade e piso regular.  
+3. **Implementação de acessibilidade** – rampas, rebaixamento de meio‑fio e piso tátil.  
+4. **Regularização do estacionamento** – demarcar vagas PcD e remover veículos da faixa livre.  
+5. **Revisão de arborização e faixa de serviço** – afastar árvores e equipamentos que invadam a calçada.  
+6. **Ajuste das entradas de veículos** – dimensões, sinalização e extensão dos rebaixamentos.  
+7. **Verificação dos recuos e portões** dos imóveis lindeiros.  
+8. **Manutenção de pavimento, drenagem e iluminação** para garantir segurança.
+
+---
+
+## Fontes consultadas  
+
+- **Lei nº 10.474, de 09 de junho de 2016** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-especifica/LEI_10474_DE_09_DE_JUNHO_DE_2016.pdf  
+- **Lei nº 10.361, de 17 de junho de 2015** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/lei_n_10_361_de_17_de_junho_de_2015.pdf  
+- **ND 10391, de 07 de julho 2015** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/catalogodeservico/lei_ndeg_10391_de_07_de_julho_de_2015.pdf  
+- **Lei Ordinária 9.755, de 2011** – https://leismunicipais.com.br/a/ce/f/fortaleza/lei-ordinaria/2011/975/9755/lei-ordinaria-n-9755-2011-dispoe-sobre-a-efetivacao-do-direito-das-pessoas-com-deficiencia-ou-mobilidade-reduzida-ao-esporte-e-ao-lazer-nas-instalacoes-que-menciona-no-municipio-de-fortaleza-na-forma-que-indica.html?wordkeytxt=pessoa%20com%20defici%EAncia  
+- **Lei Municipal nº 5.234, de 07 de dezembro 1979** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/lei_municipal_no_5234_de_07_de_dezembro_de_1979.pdf  
+- **Código da Cidade (Fortaleza)** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/609-codigo-da-cidade  
+- **Lei nº 236, de 2017 – Parcelamento, uso e ocupação do solo** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/445-parcelamento-uso-e-ocupacao-do-solo-lei-n-236-2017  
+- **Plano Diretor de Fortaleza – Lei nº 62/2009** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/124-plano-diretor-de-fortaleza-lei-n-62-2009  
+- **Lei Complementar 334/2022 – Regulamento Fundiário** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/DOM_Public_Lei_Complementar_N334_2022_REG._FUNDIARIA.pdf  
+- **Lei de Habitação de Interesse Social** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/LC_Habitacao_de_interesse_social.pdf  
